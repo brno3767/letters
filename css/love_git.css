@@ -73,3 +73,18 @@ li a:active{
 	font:black; 
 	
 }
+
+.commands ul{
+	display: inline;
+	float:center;
+	font-family: "Chalkboard SE", Light, Regular, Bold;
+	margin-left:auto;
+	margin-right:auto;
+	background-color:none;
+}
+
+.commands li{
+	color:white;
+	font-family: "Chalkboard SE", Light, Regular, Bold;
+}
+
