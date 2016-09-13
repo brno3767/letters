@@ -1,0 +1,72 @@
+.header h1{
+	text-align:center;
+	padding:100px;
+}
+
+.letter p{
+	width:400px;	
+	margin-left:auto;
+	margin-right:auto;
+}
+
+.image1{
+	padding-right: 100px;
+}
+
+.image2{
+	padding-left: 100px;
+}
+
+.image3{
+	padding-left: 100px;
+	position:relative;
+	bottom:100px;
+}
+
+h1{
+	color:white;
+    font-family: "Chalkboard SE", Light, Regular, Bold;
+
+}
+p{
+	color:white;
+	line-height: 1.5;
+    font-family: "Chalkboard SE", Light, Regular, Bold;
+
+}
+
+body{
+	background-color:black;
+}
+
+
+
+li {
+    float: left;
+}
+
+ul{
+	padding-top:100px;
+}
+
+li a {
+    display:block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+a:hover {
+    background-color: rgb(255, 255, 153);
+    color:black;
+      top: 0px; 
+    left: -25px; 
+    opacity:0.8;
+    filter:alpha(opacity=80);
+    -webkit-transition: all 0.8s ease-in-out;
+    -moz-transition: all 0.8s ease-in-out;
+    -o-transition: all 0.8s ease-in-out;
+    transition: all 0.8s ease-in-out;
+    border-radius:10px, 10px, 10px, 10px;
+}
